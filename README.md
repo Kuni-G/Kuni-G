@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Kuni-G
-- 👀 I’m interested in Python, Java , C++, Arduino and LaTex
-- 🌱 I’m currently learning Pre-Enginnering in AAiT
+- 👀 I’m interested in Python, C++, Arduino and LaTex
 - 💞️ I’m looking to collaborate on Embededb Systems
 - 📫 How to reach me, Email me at mesigmt@gmail.com
  
